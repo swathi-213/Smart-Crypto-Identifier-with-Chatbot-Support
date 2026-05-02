@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.ipynb_checkpoints/
+
+# Your project junk
+models/
+data/
+data/raw/
+*.pkl
+*.csv
+
+# OS / misc
+.DS_Store
+Thumbs.db
