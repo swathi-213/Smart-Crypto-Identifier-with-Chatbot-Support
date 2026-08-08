@@ -1,0 +1,7 @@
+streamlit
+requests
+joblib
+scikit-learn
+numpy
+pandas
+xgboost

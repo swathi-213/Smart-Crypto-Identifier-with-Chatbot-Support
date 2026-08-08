@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ![Uploading algorithm detection and security analusis for strong algorithm.png…]()
+=======
+>>>>>>> 884f5f1 (Update README and add screenshots)
 # CipherScope
 
 A unified cryptography toolkit for security analysis, algorithm detection, secure re-encryption, and an expert chatbot.
