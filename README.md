@@ -74,7 +74,7 @@ This project is designed for academic demonstration and security learning, not a
 1. Open a terminal in the project folder:
 
 ```powershell
-cd /d "C:\Users\Swathi\Documents\Phase1 Final Year Project\project phase2"
+cd /d project file
 ```
 
 2. Create and activate a virtual environment:
@@ -120,16 +120,6 @@ ollama run llama3.1
 
 Then open the Streamlit URL shown in the terminal.
 
-## Deployment and Demo URL
-
-Yes — you can share a demo by deploying the project and giving a public URL. If you host the Streamlit app on a service such as Streamlit Cloud, Render, Railway, or another web host, include that link in your GitHub README and project description.
-
-- A local app usually runs at `http://localhost:8501`.
-- A deployed demo URL should be public and reachable from other machines.
-- If you use Streamlit Cloud, you can add the generated shareable URL directly to the README.
-
-If you want to demonstrate the project without hosting, you can still describe the local run commands and include screenshots.
-
 ## How to Use
 
 ### Cipher Analysis Engine
@@ -171,6 +161,3 @@ This script reads `features_enhanced.csv` and trains the stage-1 and stage-2 det
 - The chatbot uses a local model and does not require cloud API keys.
 - The analyzer uses machine learning ensembles to improve algorithm detection accuracy.
 
-## Contact
-
-For help, open an issue or contact the developer directly.
